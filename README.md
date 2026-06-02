@@ -36,3 +36,22 @@
 # Ход решения
 
 Представлен в [гугл колаб](https://colab.research.google.com/drive/1f2uZZMI9pYcr4U891VGN2VBupz7rhH-m?usp=sharing)
+
+---
+# Результаты
+
+## Поиск эпигентических семейств
+| Семейство | Название_гена | Контиг | Старт | Конец | Цепь |
+|:---|:---|:---|:---|:---|:---|
+| DNA_methyltransferase_1 | LOC117230300 | NW_022882926.1 | 3408151 | 3413971 | + |
+| DNA_methyltransferase_1 | LOC117239562 | NW_022883371.1 | 440670 | 451411 | - |
+| Histone_methyltransferase_SET | LOC117230479 | NW_022882927.1 | 2663127 | 2664857 | - |
+| Histone_methyltransferase_SET | LOC117230805 | NW_022882927.1 | 7025619 | 7054118 | + |
+| Histone_methyltransferase_SET | LOC117232253 | NW_022882938.1 | 2779812 | 2791836 | - |
+| Histone_methyltransferase_SET | LOC117232767 | NW_022882944.1 | 1138760 | 1142328 | + |
+| Histone_methyltransferase_SET | LOC117233401 | NW_022882923.1 | 8758704 | 8769767 | + |
+| Histone_methyltransferase_SET | LOC117234611 | NW_022882954.1 | 2601625 | 2626742 | - |
+| Histone_methyltransferase_SET | LOC117234999 | NW_022882922.1 | 4543312 | 4549452 | + |
+| Histone_methyltransferase_SET | LOC117235465 | NW_022882962.1 | 1557835 | 1561610 | - |
+
+Полная таблица находится тут: [chosen_family_matches.tsv](chosen_family_matches.tsv).
