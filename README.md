@@ -41,6 +41,7 @@
 # Результаты
 
 ## Поиск эпигентических семейств
+Первые 10 строк:
 | Семейство | Название_гена | Контиг | Старт | Конец | Цепь |
 |:---|:---|:---|:---|:---|:---|
 | DNA_methyltransferase_1 | LOC117230300 | NW_022882926.1 | 3408151 | 3413971 | + |
@@ -54,4 +55,4 @@
 | Histone_methyltransferase_SET | LOC117234999 | NW_022882922.1 | 4543312 | 4549452 | + |
 | Histone_methyltransferase_SET | LOC117235465 | NW_022882962.1 | 1557835 | 1561610 | - |
 
-Полная таблица находится тут: [chosen_family_matches.tsv](chosen_family_matches.tsv).
+Полная таблица находится [тут](https://github.com/dashababakova/bioinf_final_project/blob/main/epigenetic_genes_table%20(1).csv).
