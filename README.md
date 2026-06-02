@@ -35,7 +35,7 @@
 
 # Ход решения
 
-Представлен в [гугл колаб](https://colab.research.google.com/drive/1f2uZZMI9pYcr4U891VGN2VBupz7rhH-m?usp=sharing)
+Представлен в [гугл колаб](https://colab.research.google.com/drive/1f2uZZMI9pYcr4U891VGN2VBupz7rhH-m?usp=sharing).
 
 ---
 # Результаты
