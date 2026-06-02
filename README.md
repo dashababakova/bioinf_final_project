@@ -35,7 +35,7 @@
 
 # Ход решения
 
-Представлен в [гугл колаб](https://colab.research.google.com/drive/1f2uZZMI9pYcr4U891VGN2VBupz7rhH-m?usp=sharing).
+Представлен в [гугл колаб](https://colab.research.google.com/drive/1f2uZZMI9pYcr4U891VGN2VBupz7rhH-m?usp=sharing).Геном я сюда не прикрепила, поскольку скачивала его непосредственно в среду выполнения. Поэтому оставлю [ссылку](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_011952255.1/) на него.
 
 ---
 # Результаты
